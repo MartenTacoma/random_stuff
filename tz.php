@@ -8,7 +8,7 @@
  * Set night start and end as desired
  * Set timestep in hours as desired
  * 
- * Run from a php capable web server
+ * Run from a php capable web server, access with tz.php[?d=YYYY-mm-dd], if d parameter is ommitted table is shown for current date (server date)
  */
 
 $zones = [
